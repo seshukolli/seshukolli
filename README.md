@@ -18,4 +18,5 @@ Leadership: Directed Cursors '22 Symposium, a national-level tech event.
 🔗 Connect: Let's explore the limitless possibilities of AI together! Open to collaborations and new challenges. #AIInnovator 🤖✨
 
 LinkedIn:https://www.linkedin.com/in/seshukolli/
+
 LeetCode: https://leetcode.com/seshukolli
